@@ -1,0 +1,9 @@
+name: SQLConnector
+main: me.MuchDan.SQLConnector.SQLConnector
+author: MuchDan
+version: 0.0.0
+api-version: 1.16
+
+commands:
+  SQLTest:
+    description: Test Database.

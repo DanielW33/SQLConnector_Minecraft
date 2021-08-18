@@ -1,0 +1,9 @@
+SQL:
+  isEnabled: true
+  host: "LocalHost"
+  port: "3306"
+  database: "Database"
+  username: "root"
+  password: "Password"
+  table: "TableName"
+  ssl: false
